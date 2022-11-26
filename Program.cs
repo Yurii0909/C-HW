@@ -1,3 +1,4 @@
-﻿Console.WriteLine(" 27774, World!");
-Console.WriteLine(" 27774, World!");
-Console.WriteLine(" 27774, World!");
+﻿Console.WriteLine ("dd ");
+string username = Console.ReadLine();
+Console.WriteLine ("1? ");
+Console.WriteLine (username);
