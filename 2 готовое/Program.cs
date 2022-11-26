@@ -45,10 +45,24 @@ if (c>max) max=c;
 Console.WriteLine(max);
 
  Console.WriteLine("Задание 6");
-double c=1
- double d=2 
+int p = 4;
+Console.WriteLine(p % 2 == 0 ? "да" : "нет");
+p = -3;
+Console.WriteLine(p % 2 == 0 ? "да" : "нет");
+p = 7;
+Console.WriteLine(p % 2 == 0 ? "да" : "нет");
 
 Console.WriteLine("Задание 8");
-int f = new Random().Next(1, 8)
-(f%2 ==0)
-Console.WriteLine("A больше")
+int n = 1;
+int m = 5;
+for (int i = n; i <= m; i++)
+                  if (i % 2 == 0) 
+           
+Console.Write(i + " ");
+
+n = 1;
+m = 8;
+for (int i = n; i <= m; i++)
+                  if (i % 2 == 0) 
+           
+Console.Write(i + " ");
